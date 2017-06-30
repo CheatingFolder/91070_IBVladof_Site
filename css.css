@@ -1,0 +1,80 @@
+/*HRBush - 25/06/2017 - MILK*/
+#banner {
+  width: inherit;
+}
+.row div{
+	padding: 10px 0px;
+	/*border: 1px solid;*/
+	text-align: center;
+	}
+.row a {
+	color: black;
+	}
+body {
+	background-color: #cceecc;
+	}
+#nav {
+	background-color: white;
+	width:100%;
+	}
+#nav a {
+  display: block;
+  text-decoration: none;
+	padding: 3px 0;
+}
+a:hover {
+	text-decoration: none;
+	}
+#nav a:hover {
+  background-color: #F9F8F6;
+	font-weight: bold;
+}
+#pagehead{
+	width: 100%;
+}
+#article {
+  opacity: 1;
+	padding:5px 5px;
+	width: 100%;
+	/*background-color: white;*/
+	}
+#article p { font-size:20px; }
+.article {
+	background-color:white ;
+	}
+.article a:hover{
+	background-color: beans ;
+	}
+
+.col-md-4 a{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	}
+#feature {
+  text-align: left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px
+}
+#title {
+  background-color: #ffffaa;
+}
+#title h3 {
+  margin-left: 25px;
+}
+.feature {
+	background-color: white;
+	}
+#articletitle {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 0px;
+  margin-left: 20px;
+}
+#article1 {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
